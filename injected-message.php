@@ -1,4 +1,4 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "Electron Api İnjected";
+        Title = "Electron Api Injected";
         Text = "Namellesi kullandığın için teşşekürler";
     })
